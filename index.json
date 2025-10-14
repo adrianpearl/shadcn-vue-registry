@@ -1,0 +1,17 @@
+{
+  "$schema": "https://shadcn-vue.com/schema/registry.json",
+  "name": "Personal shadcn-vue Registry",
+  "description": "Custom shadcn-vue components",
+  "author": "Adrian Pearl",
+  "url": "https://github.com/adrianpearl/shadcn-vue-registry",
+  "homepage": "https://github.com/adrianpearl/shadcn-vue-registry",
+  "items": [
+    {
+      "type": "registry:component",
+      "name": "rich-text-editor",
+      "title": "Rich Text Editor", 
+      "description": "A compact rich text editor built with TipTap and shadcn-vue",
+      "url": "https://raw.githubusercontent.com/adrianpearl/shadcn-vue-registry/main/rich-text-editor.json"
+    }
+  ]
+}
